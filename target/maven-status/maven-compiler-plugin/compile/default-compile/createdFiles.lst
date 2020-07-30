@@ -1,0 +1,6 @@
+tk\mybatis\web\service\DictService.class
+tk\mybatis\web\controller\DictController.class
+tk\mybatis\web\service\impl\DictServiceImpl.class
+tk\mybatis\web\controller\IndexController.class
+tk\mybatis\web\mapper\DictMapper.class
+tk\mybatis\web\model\SysDict.class
